@@ -1,8 +1,8 @@
-Availability Calculator
+Availability isocrhones
 
 ## Demo
 
-https://sapfir0.github.io/QGisModule/
+https://sapfir0.github.io/AvailabilityIsocrhones/
 
 ## Build
 
